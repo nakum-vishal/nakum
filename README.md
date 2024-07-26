@@ -1,4 +1,4 @@
 # nakum
 My repository
 <br>
-Author - nakum vishal
+Author - nakum (nakum)
